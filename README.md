@@ -33,17 +33,18 @@
 このデータは、そんな私の思いを込めて、公開しています。
 
 # 使い方
-## CSVを読み込む場合
+CSVを読み込む場合
+https://linkevery2s.github.io/covid19timeline/data.csv
 
-## JSONを読み込む場合
-
+JSONを読み込む場合
+https://linkevery2s.github.io/covid19timeline/data.json
 
 # 想定している利用用途
-### 年表の作成
+年表の作成
 
-### 陽性者数の推移との比較
+陽性者数の推移との比較
 
-### 経済への影響
+政策の経済への影響
 
 # ライセンス
 [CC BY 4.0国際](https://creativecommons.org/licenses/by/4.0/deed.ja)にて公開します。ご自由にご利用ください！
