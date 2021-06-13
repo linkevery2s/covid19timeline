@@ -1,5 +1,7 @@
 # 新型コロナウイルス感染症 国内年表データ
 
+![COVID19title](./example/images/covid19title.png)
+
 国内の政策・対応をcsv、json形式にまとめました。
 
 csv：https://linkevery2s.github.io/covid19timeline/data.csv
