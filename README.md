@@ -38,13 +38,15 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 Exampleを参照
 
 ## 想定している利用用途
-年表の作成
+・年表の作成
 
-陽性者数の推移との比較
+[![COVID-19 国内年表](./example/images/timeline.png)](https://linkevery2s.github.io/covid19timeline/example/timeline.html)
 
-政策と人々の行動変容の相関
+・陽性者数の推移との比較
 
-政策の経済への影響
+・政策と人々の行動変容の相関
+
+・政策の経済への影響
 
 ## 作成への協力
 マンパワーでは、日々の更新が追い付かないと思います。恐れ入りますが、もし、ご協力頂ける方がいらっしゃったら、以下のGoogleフォームにて投稿していただけたら幸いです。
