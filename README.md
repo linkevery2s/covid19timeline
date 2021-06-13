@@ -35,7 +35,7 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 このデータは、そんな私の思いを込めて、公開しています。
 
 ## 使い方
-Exampleを参照
+[Example](https://github.com/linkevery2s/covid19timeline/tree/main/example)を参照
 
 ## 想定している利用用途
 ・年表の作成
