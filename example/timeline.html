@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+	<title>COVID-19 国内年表</title>
+  	<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+
+	<script type="module">
+	
+		import { CSV } from "https://js.sabae.cc/CSV.js";
+		
+		onload = async () => {
+
+		const url = "https://linkevery2s.github.io/covid19timeline/data.csv";
+		const data = CSV.parse(await (await fetch(url)).text());
+
+			vaccine.innerHTML = "";
+			
+			for (let i = 0; i < 47; i++){
+				
+				vaccine.innerHTML+= "<li class='link'><span class='date_m'>" + data[i].date + "</span>　" + data[i].organization + "<div class='title'>" + data[i].title + "</div>" + "<a href='" + data[i].url + "' target='_blank'>詳細URL</a></li>" ;
+			
+			}
+		};
+		
+		
+	</script>
+
+    <style>
+    
+	html,body{
+		margin: 0; padding: 0;
+		font-family: "Meiryo", "Hiragino Kaku Gothic OriN", sans-serif;
+		width: 100%;
+	}
+	
+	h1{
+		text-align:center;
+	}
+	
+	.date_m{
+		color: #007bbb;
+	}
+	
+	.title{
+		margin: 1em 0 1em 0;
+	}
+	
+	a {
+		text-decoration: none;
+		border-bottom: 2px dotted #FF8C00;
+		color: #FF8C00;
+	}
+
+	ul,li{
+		list-style: none;
+		padding: 0;
+	}
+
+	li:nth-child(even) {
+		background:#f2f2f2;
+	}
+	
+	li:nth-child(odd) {
+		background:#ffffff;
+	}
+
+	.link{
+		border: 1px dotted #b2b2b2;
+		border-width: 2px 0 0 0;
+		padding: 5px;
+		display: block;
+	}
+
+	.link:last-child{
+		border-bottom-width: 2px;
+	}
+    
+    </style>
+	</head>
+
+<body>
+<h1>COVID-19 国内年表</h1>
+<div id="update"></div>
+
+  		<ul>
+			<div id="vaccine"></div>
+		</ul>
+	
+	</body>
+</html>
