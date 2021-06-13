@@ -1,10 +1,10 @@
 # 新型コロナウイルス感染症 年表データ
 
-国内の政策・対応をCSV、JSON形式にまとめました。
+国内の政策・対応をcsv、json形式にまとめました。
 
-CSV：https://linkevery2s.github.io/covid19timeline/data.csv
+csv：https://linkevery2s.github.io/covid19timeline/data.csv
 
-JSON：https://linkevery2s.github.io/covid19timeline/data.json
+json：https://linkevery2s.github.io/covid19timeline/data.json
 
 ## 作成した経緯
 #### 正常性バイアス
