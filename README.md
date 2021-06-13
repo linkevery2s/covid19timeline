@@ -6,20 +6,6 @@ csv：https://linkevery2s.github.io/covid19timeline/data.csv
 
 json：https://linkevery2s.github.io/covid19timeline/data.json
 
-## 使い方
-[Example](https://github.com/linkevery2s/covid19timeline/tree/main/example)を参照
-
-## 想定している利用用途
-・年表の作成
-
-[![COVID-19 国内年表](./example/images/timeline.png)](https://linkevery2s.github.io/covid19timeline/example/timeline.html)
-
-・陽性者数の推移との比較
-
-・政策と人々の行動変容の相関
-
-・政策の経済への影響
-
 ## 作成した経緯
 #### 正常性バイアス
 私たちの記憶は日々の時間に追われ、過去のものとして、忘れられていきます。東日本大震災も年数が経過するに連れて、だんだん記憶が薄れていかれている方は多いのではないでしょうか？
@@ -47,6 +33,21 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 検証するにあたり、やはり時系列で対策を可視化し、考察する必要があると思います。
 
 このデータは、そんな私の思いを込めて、公開しています。
+
+
+## 使い方
+[Example](https://github.com/linkevery2s/covid19timeline/tree/main/example)を参照
+
+## 想定している利用用途
+・年表の作成
+
+[![COVID-19 国内年表](./example/images/timeline.png)](https://linkevery2s.github.io/covid19timeline/example/timeline.html)
+
+・陽性者数の推移との比較
+
+・政策と人々の行動変容の相関
+
+・政策の経済への影響
 
 ## 作成への協力
 マンパワーでは、日々の更新が追い付かないと思います。恐れ入りますが、もし、ご協力頂ける方がいらっしゃったら、以下のGoogleフォームにて投稿していただけたら幸いです。
