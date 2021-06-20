@@ -41,7 +41,7 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 ## 想定している利用用途
 ・年表の作成
 
-[![COVID-19 国内年表](https://linkevery2s.github.io/covid19timeline/example/images/timeline.png)](https://linkevery2s.github.io/covid19timeline/example/timeline.html)
+[![COVID-19 国内年表](https://linkevery2s.github.io/covid19timeline/example/images/list.png)](https://linkevery2s.github.io/covid19timeline/example/list.html)
 
 ・陽性者数の推移との比較
 
