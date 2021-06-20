@@ -17,7 +17,9 @@
 
 			vaccine.innerHTML = "";
 			
-			for (let i = 0; i < 47; i++){
+			const count = data.length;
+			
+			for (let i = 0; i < count; i++){
 				
 				vaccine.innerHTML+= "<li class='link'><span class='date_m'>" + data[i].date + "</span>　" + data[i].organization + "<div class='title'>" + data[i].title + "</div>" + "<a href='" + data[i].url + "' target='_blank'>詳細URL</a></li>" ;
 			
