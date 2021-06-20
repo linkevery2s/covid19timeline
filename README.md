@@ -1,6 +1,6 @@
 # 新型コロナウイルス感染症 国内年表データ
 
-![COVID19title](./example/images/covid19title.png)
+![COVID19title](https://linkevery2s.github.io/covid19timeline/example/images/covid19title.png)
 
 国内の政策・対応をcsv、json形式にまとめました。
 
@@ -43,7 +43,7 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 ## 想定している利用用途
 ・年表の作成
 
-[![COVID-19 国内年表](./example/images/timeline.png)](https://linkevery2s.github.io/covid19timeline/example/timeline.html)
+[![COVID-19 国内年表](https://linkevery2s.github.io/covid19timeline/example/images/timeline.png)](https://linkevery2s.github.io/covid19timeline/example/timeline.html)
 
 ・陽性者数の推移との比較
 
