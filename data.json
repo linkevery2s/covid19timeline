@@ -1,15 +1,75 @@
 [
   {
+    "date": "2020/01/09",
+    "title": "中国疾病対策センター（CCDC）へ情報提供を依頼",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
+  },
+  {
+    "date": "2020/01/10",
+    "title": "ウイルス遺伝子検査系の開発に着手",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
+  },
+  {
+    "date": "2020/01/14",
+    "title": "プロトタイプのPCR検査法にて国内症例の検査開始",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
+  },
+  {
     "date": "2020/01/16",
-    "title": "日本で初の感染者発生",
+    "title": "日本で感染者発生",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/stf/newpage_08906.html"
+  },
+  {
+    "date": "2020/01/20",
+    "title": "PCR検査法の開発完了",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
+  },
+  {
+    "date": "2020/01/22",
+    "title": "全国約80箇所の地方衛生研究所へ検査用プライマーを発送",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
+  },
+  {
+    "date": "2020/01/23",
+    "title": "各自治体に検査協力の依頼の事務連絡を発出",
+    "organization": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/10900000/000587893.pdf"
   },
   {
     "date": "2020/01/26",
     "title": "武漢市在住邦人、チャーター機にて帰国へ",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202001/26kaiken.html"
+  },
+  {
+    "date": "2020/01/28",
+    "title": "新型コロナウイルスを指定感染症として定める",
+    "organization": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/10900000/000589747.pdf"
+  },
+  {
+    "date": "2020/01/29",
+    "title": "全国の地方公共団体の衛生研究所、検疫所にリアルタイムPCRに必要な試薬を発送",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
+  },
+  {
+    "date": "2020/01/31",
+    "title": "新型コロナウイルスの分離に成功",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/multimedia/9368-2019-ncov.html"
+  },
+  {
+    "date": "2020/02/04",
+    "title": "分離された新型コロナウイルスを試験研究に利用する研究機関等へ分与",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/9377-2020-02-04-04-56-56.html"
   },
   {
     "date": "2020/02/05",
@@ -22,6 +82,12 @@
     "title": "国内で死亡者発生",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/stf/newpage_09503.html"
+  },
+  {
+    "date": "2020/02/13",
+    "title": "民間の検査機関での検査実施に向け協力を開始",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
     "date": "2020/02/17",
@@ -208,6 +274,36 @@
     "title": "新型コロナウイルスワクチンの供給について、アストラゼネカ株式会社と 基本合意",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/10906000/000657776.pdf"
+  },
+  {
+    "date": "2020/08/28",
+    "title": "新型コロナウイルス感染症に関する今後の取組の公表",
+    "organization": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00034.html"
+  },
+  {
+    "date": "2020/08/28",
+    "title": "今後の季節性インフルエンザ流行期も見据えた、新型コロナ感染症の新たな取組方針を取りまとめ",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/98_abe/actions/202008/28corona.html"
+  },
+  {
+    "date": "2020/09/16",
+    "title": "内閣総辞職",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/98_abe/actions/202009/16soujisyoku.html"
+  },
+  {
+    "date": "2020/09/16",
+    "title": "新内閣発足",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/99_suga/actions/202009/16suganaikaku.html"
+  },
+  {
+    "date": "2021/01/04",
+    "title": "感染性の増加が懸念されるSARS-CoV-2新規変異株VOC-202012/01の分離に成功",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/basic-science/virology/10097-virology-2021-1.html"
   },
   {
     "date": "2021/04/23",
