@@ -21,7 +21,7 @@
 			
 			for (let i = 0; i < count; i++){
 				
-				vaccine.innerHTML+= "<li class='link'><span class='date_m'>" + data[i].date + "</span>　" + data[i].organization + "<div class='title'>" + data[i].title + "</div>" + "<a href='" + data[i].url + "' target='_blank'>詳細URL</a></li>" ;
+				vaccine.innerHTML+= "<li class='link'><span class='date_m'>" + data[i].date + "</span>　" + data[i].organization + "<div class='title'>" + data[i].title + "</div>" + "<a href='" + data[i].url + "' target='_blank'>詳細URL <i class='fas fa-external-link-alt'></i></a></li>" ;
 			
 			}
 		};
@@ -79,16 +79,25 @@
 		border-bottom-width: 2px;
 	}
     
+    #footer{
+    	width:100%;
+    	text-align:center;
+    	margin:0;
+    	padding: .5em 0 .5em 0;
+    }
     </style>
 	</head>
 
 <body>
 <h1>COVID-19 国内年表</h1>
-<div id="update"></div>
 
-  		<ul>
-			<div id="vaccine"></div>
-		</ul>
-	
-	</body>
+  	<ul>
+		<div id="vaccine"></div>
+	</ul>
+
+<div id="footer">
+<a href="https://creativecommons.org/licenses/by/4.0/deed.ja" target="_blank">CC BY 4.0</a> &copy; <a href="https://hitoshi2s.netlify.app/index.html" target="_blank">仁志</a>
+</div>
+
+</body>
 </html>
