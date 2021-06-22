@@ -30,7 +30,7 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 
 ここが良かった。これはあまり効果が得られなかった。などの検証を行う必要があります。
 
-検証するにあたり、やはり時系列で対策を可視化し、考察する必要があると思います。
+検証するにあたり、やはり時系列で対策を可視化すべきなのでは、と思いました。
 
 このデータは、そんな私の思いを込めて、公開しています。
 
@@ -38,14 +38,28 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 ## 使い方
 [Example](https://github.com/linkevery2s/covid19timeline/tree/main/example)を参照
 
-## 想定している利用用途
-・年表の作成
+・タイムラインの作成（ → [こちら](https://linkevery2s.github.io/covid19timeline/example/timeline.html)）
 
-[![COVID-19 国内年表](https://linkevery2s.github.io/covid19timeline/example/images/list.png)](https://linkevery2s.github.io/covid19timeline/example/list.html)
+![タイムライン](https://linkevery2s.github.io/covid19timeline/example/images/timeline.png)
 
+・年表リストの作成（ → [こちら](https://linkevery2s.github.io/covid19timeline/example/list.html)）
+
+![年表リスト](https://linkevery2s.github.io/covid19timeline/example/images/list.png)
+
+
+## その他想定する使用用途
 ・陽性者数の推移との比較
 
 ・政策と人々の行動変容の相関
+
+
+## データセット
+
+|項目|値|
+|:--|:--|
+|**date**|日付 |
+|**organization**|発表した機関 |
+|**url**|記事URL |
 
 
 ## 作成への協力
