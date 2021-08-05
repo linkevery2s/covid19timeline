@@ -1,314 +1,374 @@
 [
   {
-    "date": "2020/01/09",
+    "date": "2020/1/9",
     "title": "中国疾病対策センター（CCDC）へ情報提供を依頼",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
-    "date": "2020/01/10",
+    "date": "2020/1/10",
     "title": "ウイルス遺伝子検査系の開発に着手",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
-    "date": "2020/01/14",
+    "date": "2020/1/14",
     "title": "プロトタイプのPCR検査法にて国内症例の検査開始",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
-    "date": "2020/01/16",
+    "date": "2020/1/16",
     "title": "日本で感染者発生",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/stf/newpage_08906.html"
   },
   {
-    "date": "2020/01/20",
+    "date": "2020/1/20",
     "title": "PCR検査法の開発完了",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
-    "date": "2020/01/22",
+    "date": "2020/1/22",
     "title": "全国約80箇所の地方衛生研究所へ検査用プライマーを発送",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
-    "date": "2020/01/23",
+    "date": "2020/1/23",
     "title": "各自治体に検査協力の依頼の事務連絡を発出",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/10900000/000587893.pdf"
   },
   {
-    "date": "2020/01/26",
+    "date": "2020/1/26",
     "title": "武漢市在住邦人、チャーター機にて帰国へ",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202001/26kaiken.html"
   },
   {
-    "date": "2020/01/28",
+    "date": "2020/1/28",
     "title": "新型コロナウイルスを指定感染症として定める",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/10900000/000589747.pdf"
   },
   {
-    "date": "2020/01/29",
+    "date": "2020/1/29",
     "title": "全国の地方公共団体の衛生研究所、検疫所にリアルタイムPCRに必要な試薬を発送",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
-    "date": "2020/01/31",
+    "date": "2020/1/31",
     "title": "新型コロナウイルスの分離に成功",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/multimedia/9368-2019-ncov.html"
   },
   {
-    "date": "2020/02/04",
+    "date": "2020/2/4",
     "title": "分離された新型コロナウイルスを試験研究に利用する研究機関等へ分与",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/diseases/ka/corona-virus/2019-ncov/9377-2020-02-04-04-56-56.html"
   },
   {
-    "date": "2020/02/05",
+    "date": "2020/2/5",
     "title": "ダイヤモンド・プリンセス号から10人の感染者確認",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/stf/newpage_09276.html"
   },
   {
-    "date": "2020/02/13",
+    "date": "2020/2/13",
     "title": "国内で死亡者発生",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/stf/newpage_09503.html"
   },
   {
-    "date": "2020/02/13",
+    "date": "2020/2/13",
     "title": "民間の検査機関での検査実施に向け協力を開始",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/others/9478-covid19-16.html"
   },
   {
-    "date": "2020/02/17",
+    "date": "2020/2/17",
     "title": "新型コロナウイルス感染症の受診・相談の目安を公表",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/000603937.pdf"
   },
   {
-    "date": "2020/02/24",
+    "date": "2020/2/24",
     "title": "これから１－２週間が急速な拡大に進むか、収束できるかの瀬戸際",
     "organization": "新型コロナウイルス感染症対策専門家会議",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00006.html"
   },
   {
-    "date": "2020/02/27",
+    "date": "2020/2/27",
     "title": "首相、全国全ての小・中・高等学校、特別支援学校を休校するよう指示",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202002/27corona.html"
   },
   {
-    "date": "2020/03/02",
+    "date": "2020/3/2",
     "title": "クラスター対策の見解を公表",
     "organization": "新型コロナウイルス感染症対策専門家会議",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00011.html"
   },
   {
-    "date": "2020/03/05",
+    "date": "2020/3/5",
     "title": "マスクの転売を禁止に",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202003/05corona.html"
   },
   {
-    "date": "2020/03/05",
+    "date": "2020/3/5",
     "title": "中国、韓国からの入国に対する検疫の強化",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202003/05corona.html"
   },
   {
-    "date": "2020/03/05",
+    "date": "2020/3/5",
     "title": "医療機関向けのマスクの輸入拡大し、1,500万枚確保",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202003/05corona.html"
   },
   {
-    "date": "2020/03/09",
+    "date": "2020/3/9",
     "title": "日本の状況は爆発的な感染拡大には進んでおらず、一定程度、持ちこたえているのではないかとの見解を公表",
     "organization": "新型コロナウイルス感染症対策専門家会議",
     "url": "https://www.mhlw.go.jp/content/10900000/000606000.pdf"
   },
   {
-    "date": "2020/03/17",
+    "date": "2020/3/17",
     "title": "厚生労働省へ入国制限について要請へ",
     "organization": "新型コロナウイルス感染症対策専門家会議",
     "url": "https://www.mhlw.go.jp/content/10900000/000610584.pdf"
   },
   {
-    "date": "2020/03/24",
+    "date": "2020/3/24",
     "title": "オリンピック１年延期に",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202003/24bura.html"
   },
   {
-    "date": "2020/04/01",
+    "date": "2020/3/24",
+    "title": "東京オリンピック、１年程度延長を決定",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/98_abe/actions/202003/24bura.html"
+  },
+  {
+    "date": "2020/4/1",
     "title": "布マスク、1世帯に2枚配布の方針",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202004/1corona.html"
   },
   {
-    "date": "2020/04/07",
+    "date": "2020/4/7",
     "title": "７都府県（東京都、神奈川県、千葉県、埼玉県、大阪府、兵庫県、福岡県）、緊急事態宣言を発令",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/statement/2020/0407kaiken.html"
   },
   {
-    "date": "2020/04/11",
+    "date": "2020/4/11",
     "title": "緊急事態宣言の区域内の企業、出勤者7割削減を指示",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202004/11corona.html"
   },
   {
-    "date": "2020/04/16",
+    "date": "2020/4/16",
     "title": "緊急事態宣言、全国に拡大、13都道府県は「特定警戒都道府県」に",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202004/16corona.html"
   },
   {
-    "date": "2020/04/17",
+    "date": "2020/4/17",
     "title": "全国民一律10万円の給付決定",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/statement/2020/0417kaiken.html"
   },
   {
-    "date": "2020/04/22",
+    "date": "2020/4/22",
     "title": "専門家会議、GWの過ごし方などの提言を公表",
     "organization": "新型コロナウイルス感染症対策専門家会議",
     "url": "https://www.mhlw.go.jp/content/10900000/000624129.pdf"
   },
   {
-    "date": "2020/04/24",
+    "date": "2020/4/24",
     "title": "学校の臨時休校の実施状況について公表",
     "organization": "文部科学省",
     "url": "https://www.mext.go.jp/content/20200424-mxt_kouhou01-000004520_8.pdf"
   },
   {
-    "date": "2020/05/04",
+    "date": "2020/4/27",
+    "title": "新型コロナウイルスSARS-CoV-2のゲノム分子疫学調査",
+    "organization": "国立感染症研究所",
+    "url": "https://www.niid.go.jp/niid/ja/basic-science/467-genome/9586-genome-2020-1.html"
+  },
+  {
+    "date": "2020/5/4",
     "title": "緊急事態宣言、31日まで延長",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202005/04corona.html"
   },
   {
-    "date": "2020/05/04",
+    "date": "2020/5/4",
     "title": "新しい生活様式、具体例を公表",
     "organization": "新型コロナウイルス感染症対策専門家会議",
     "url": "https://www.mhlw.go.jp/content/10900000/000627559.pdf"
   },
   {
-    "date": "2020/05/07",
+    "date": "2020/5/7",
     "title": "治療薬として「レムデシビル」特例承認",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/10900000/000631266.pdf"
   },
   {
-    "date": "2020/05/11",
+    "date": "2020/5/11",
     "title": "新型コロナウイルス感染症の受診・相談の目安を改訂",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/000629072.pdf"
   },
   {
-    "date": "2020/05/14",
+    "date": "2020/5/14",
     "title": "緊急事態宣言、３９県解除",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202005/14corona.html"
   },
   {
-    "date": "2020/05/14",
+    "date": "2020/5/14",
     "title": "緊急事態措置の解除の水準を公表",
     "organization": "新型コロナウイルス感染症対策専門家会議",
     "url": "https://www.mhlw.go.jp/content/10900000/000630718.pdf"
   },
   {
-    "date": "2020/05/21",
+    "date": "2020/5/21",
     "title": "緊急事態宣言、関西解除",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202005/21corona.html"
   },
   {
-    "date": "2020/05/25",
+    "date": "2020/5/25",
     "title": "緊急事態宣言、全国で解除",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202005/25corona.html"
   },
   {
-    "date": "2020/06/18",
+    "date": "2020/6/18",
     "title": "都道府県をまたぐ移動の制限解除",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202006/18corona.html"
   },
   {
-    "date": "2020/06/19",
+    "date": "2020/6/19",
     "title": "新型コロナウイルス接触確認アプリ（COCOA）をリリース",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/stf/newpage_11954.html"
   },
   {
-    "date": "2020/07/17",
+    "date": "2020/7/3",
+    "title": "「新型コロナウイルス感染症対策専門家会議」を廃止し、新たに「新型コロナウイルス感染症対策分科会」を設置",
+    "organization": "内閣官房",
+    "url": "https://www.cas.go.jp/jp/seisaku/ful/yusikisyakaigi/konkyo.pdf"
+  },
+  {
+    "date": "2020/7/17",
     "title": "治療薬として「デキサメタゾン」認可、診療の手引きに掲載",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/000650159.pdf"
   },
   {
-    "date": "2020/07/22",
+    "date": "2020/7/22",
     "title": "GOTOキャンペーン開始",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202007/22bura.html"
   },
   {
-    "date": "2020/07/31",
+    "date": "2020/7/31",
     "title": "新型コロナウイルスワクチンの供給について、米国ファイザー社と基本合意",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/10906000/000655273.pdf"
   },
   {
-    "date": "2020/08/07",
+    "date": "2020/8/7",
     "title": "新型コロナウイルスワクチンの供給について、アストラゼネカ株式会社と 基本合意",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/content/10906000/000657776.pdf"
   },
   {
-    "date": "2020/08/28",
+    "date": "2020/8/28",
     "title": "新型コロナウイルス感染症に関する今後の取組の公表",
     "organization": "厚生労働省",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/newpage_00034.html"
   },
   {
-    "date": "2020/08/28",
+    "date": "2020/8/28",
     "title": "今後の季節性インフルエンザ流行期も見据えた、新型コロナ感染症の新たな取組方針を取りまとめ",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202008/28corona.html"
   },
   {
-    "date": "2020/09/16",
+    "date": "2020/9/1",
+    "title": "新型コロナウイルス感染症に関する外国語対応ホームページを開設",
+    "organization": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/newpage_13346.html"
+  },
+  {
+    "date": "2020/9/16",
     "title": "内閣総辞職",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/98_abe/actions/202009/16soujisyoku.html"
   },
   {
-    "date": "2020/09/16",
+    "date": "2020/9/16",
     "title": "新内閣発足",
     "organization": "首相官邸",
     "url": "https://www.kantei.go.jp/jp/99_suga/actions/202009/16suganaikaku.html"
   },
   {
-    "date": "2021/01/04",
+    "date": "2020/11/16",
+    "title": "GOTOイート、感染拡大地域にて５人以上の飲食は対象外に",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/99_suga/actions/202011/16corona.html"
+  },
+  {
+    "date": "2020/11/20",
+    "title": "分科会から政府への提言",
+    "organization": "新型コロナウイルス感染症対策分科会",
+    "url": "https://www.cas.go.jp/jp/seisaku/ful/bunkakai/seifu_teigen_16.pdf"
+  },
+  {
+    "date": "2020/11/27",
+    "title": "GOTOトラベル、幌市・大阪市について、出発分についても利用を控えるよう呼びかけ",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/99_suga/actions/202011/27corona.html"
+  },
+  {
+    "date": "2021/1/4",
     "title": "感染性の増加が懸念されるSARS-CoV-2新規変異株VOC-202012/01の分離に成功",
     "organization": "国立感染症研究所",
     "url": "https://www.niid.go.jp/niid/ja/basic-science/virology/10097-virology-2021-1.html"
   },
   {
-    "date": "2021/04/23",
+    "date": "2021/1/7",
+    "title": "1都3県（東京、千葉、埼玉、神奈川）への緊急事態宣言発令",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/99_suga/statement/2021/0107kaiken.html"
+  },
+  {
+    "date": "2021/1/13",
+    "title": "7府県（大阪府、京都府、兵庫県、愛知県、岐阜県、福岡県、栃木県）を緊急事態宣言措置の対象に",
+    "organization": "首相官邸",
+    "url": "https://www.kantei.go.jp/jp/99_suga/actions/202101/13corona.html"
+  },
+  {
+    "date": "2021/4/23",
     "title": "治療薬として「バリシチニブ」承認",
     "organization": "厚生労働省",
     "url": "https://www.pmda.go.jp/drugs/2021/P20210419001/530471000_22900AMX00582_A100_2.pdf"
+  },
+  {
+    "date": "2021/7/19",
+    "title": "カシリビマブ（遺伝子組換え）及びイムデビマブ（遺伝子組換え）特例承認",
+    "organization": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/stf/newpage_19940.html"
   }
 ]
