@@ -62,15 +62,8 @@ json：https://linkevery2s.github.io/covid19timeline/data.json
 |**url**|記事URL |
 
 
-## 作成への協力
-マンパワーでは、日々の更新が追い付かないと思います。恐れ入りますが、もし、ご協力頂ける方がいらっしゃったら、以下のGoogleフォームにて投稿していただけたら幸いです。
-
-[入力フォーム](https://forms.gle/Y1oCFLVmTjFYqVZN7)（参考：フォームに入力すると、[スプレッドシート](https://docs.google.com/spreadsheets/d/1liLP9IWqzLXuUf83XtLBIxUljxPIHDvqJKJopObLFqE/edit?usp=sharing)に反映されます。）
-
-誤りがないか等、私が確認した上で、Githubにアップロードいたします。
-
 ## ライセンス
 [CC BY 4.0国際](https://creativecommons.org/licenses/by/4.0/deed.ja)にて公開します。ご自由にご利用ください！
 
 ## 更新履歴
-[wiki](https://github.com/linkevery2s/covid19timeline/wiki)から確認できます。
+[wiki](https://github.com/linkevery2s/covid19timeline/wiki)から確認できます。不定期ですが、月に１回ほどのペースで更新していこうと思います。
